@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Aquarium" targetName="gtest" />
+      <config projectName="Aquarium" targetName="Tests_run" />
+      <config projectName="Aquarium" targetName="gmock_main" />
+      <config projectName="Aquarium" targetName="AquariumLib" />
+      <config projectName="Aquarium" targetName="gtest_main" />
+      <config projectName="Aquarium" targetName="Aquarium" />
+      <config projectName="Aquarium" targetName="gmock" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7063b27-f44f-4c35-b112-7d27aa690bc6" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/cmake-build-debug/_deps/googletest-src" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1y3BJHR4EVqIDClxIEdLSYxnwjB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="ToolWindowFavorites.ShowToolbar" value="false" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.advertisement.text.has.clang-format" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Project1" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RunManager" selected="CMake Application.Aquarium">
+    <configuration name="AquariumTest.ClearTest" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Aquarium" TARGET_NAME="Tests_run" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Aquarium" RUN_TARGET_NAME="Tests_run" TEST_CLASS="AquariumTest" TEST_METHOD="ClearTest" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AquariumTest.HitTest" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Aquarium" TARGET_NAME="Tests_run" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Aquarium" RUN_TARGET_NAME="Tests_run" TEST_CLASS="AquariumTest" TEST_METHOD="HitTest" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AquariumTest.Load" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Aquarium" TARGET_NAME="Tests_run" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Aquarium" RUN_TARGET_NAME="Tests_run" TEST_CLASS="AquariumTest" TEST_METHOD="Load" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AquariumTest.Save" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Aquarium" TARGET_NAME="Tests_run" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Aquarium" RUN_TARGET_NAME="Tests_run" TEST_CLASS="AquariumTest" TEST_METHOD="Save" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AquariumTest.TopFishTest" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Aquarium" TARGET_NAME="Tests_run" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Aquarium" RUN_TARGET_NAME="Tests_run" TEST_CLASS="AquariumTest" TEST_METHOD="TopFishTest" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests_run" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Aquarium" TARGET_NAME="Tests_run" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Aquarium" RUN_TARGET_NAME="Tests_run" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Aquarium" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Aquarium" TARGET_NAME="Aquarium" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Aquarium" RUN_TARGET_NAME="Aquarium">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AquariumLib" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Aquarium" TARGET_NAME="AquariumLib" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Aquarium" TARGET_NAME="gmock" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Aquarium" TARGET_NAME="gmock_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Aquarium" TARGET_NAME="gtest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Aquarium" TARGET_NAME="gtest_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Aquarium" />
+      <item itemvalue="CMake Application.AquariumLib" />
+      <item itemvalue="CMake Application.gmock" />
+      <item itemvalue="CMake Application.gmock_main" />
+      <item itemvalue="CMake Application.gtest" />
+      <item itemvalue="CMake Application.gtest_main" />
+      <item itemvalue="Google Test.Tests_run" />
+      <item itemvalue="Google Test.AquariumTest.TopFishTest" />
+      <item itemvalue="Google Test.AquariumTest.Save" />
+      <item itemvalue="Google Test.AquariumTest.HitTest" />
+      <item itemvalue="Google Test.AquariumTest.ClearTest" />
+      <item itemvalue="Google Test.AquariumTest.Load" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Google Test.AquariumTest.Load" />
+        <item itemvalue="Google Test.AquariumTest.TopFishTest" />
+        <item itemvalue="Google Test.AquariumTest.Save" />
+        <item itemvalue="Google Test.AquariumTest.ClearTest" />
+        <item itemvalue="Google Test.AquariumTest.HitTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7063b27-f44f-4c35-b112-7d27aa690bc6" name="Changes" comment="" />
+      <created>1631470317786</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631470317786</updated>
+      <workItem from="1631470324831" duration="732000" />
+      <workItem from="1631471090736" duration="3262000" />
+      <workItem from="1631474467258" duration="4560000" />
+      <workItem from="1631497063780" duration="1209000" />
+      <workItem from="1631579447443" duration="773000" />
+      <workItem from="1631746750686" duration="1441000" />
+      <workItem from="1631749238397" duration="255000" />
+      <workItem from="1631749573470" duration="114000" />
+      <workItem from="1631749825016" duration="608000" />
+      <workItem from="1632096509683" duration="4559000" />
+      <workItem from="1632165568191" duration="1391000" />
+      <workItem from="1632180939563" duration="2794000" />
+      <workItem from="1632190113085" duration="2885000" />
+      <workItem from="1632271796247" duration="5676000" />
+      <workItem from="1632351858844" duration="2753000" />
+      <workItem from="1632356148005" duration="409000" />
+      <workItem from="1632356608414" duration="4149000" />
+      <workItem from="1632625517554" duration="2550000" />
+      <workItem from="1632669999134" duration="8781000" />
+      <workItem from="1632785293989" duration="6395000" />
+      <workItem from="1632852315857" duration="9404000" />
+      <workItem from="1632936231000" duration="10164000" />
+      <workItem from="1633561722058" duration="698000" />
+      <workItem from="1633629130271" duration="1129000" />
+      <workItem from="1633661684394" duration="621000" />
+      <workItem from="1633700132693" duration="633000" />
+      <workItem from="1633724825721" duration="281000" />
+      <workItem from="1633902499169" duration="3224000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
